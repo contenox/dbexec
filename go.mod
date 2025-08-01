@@ -1,4 +1,4 @@
-module github.com/contenox/runtime-mvp/libs/libdb
+module github.com/contenox/dbexec
 
 go 1.24.1
 
